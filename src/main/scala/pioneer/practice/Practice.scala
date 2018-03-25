@@ -17,4 +17,5 @@ object Practice {
     * we're on vacation.
     */
   def sleepIn(w: Boolean, v: Boolean): Boolean = w == false || v == true
+  // replace this comment with your implementation of sleepIn
 }
