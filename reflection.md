@@ -6,4 +6,4 @@ on the following question:
 Is there anything that is still annoying or difficult about the operations we
 have in the library (i.e., flipping, rotating, and grayscaling)?
 
-_replace this text with your answer_
+I still felt like the code itself is strenuous to understand, and I still felt like a lot of the program can be simplified in the sense that a lot of the code are "repeated".
